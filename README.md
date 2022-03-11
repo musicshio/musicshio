@@ -18,17 +18,25 @@ Lambda, EC2, Cognito.
 ### Tools
 Github Actions, CircleCI.
 
-## Other Skills
+## Design Skills
 - Musical Composition/Arrangement
-  - Cubase
+  - Cubase, Audition, musescore.
 - Graphic Design
-  - Illustrator, Photoshop
+  - Illustrator, Photoshop.
 - Video editing
-  - Premiere Pro, After Effects
+  - Premiere Pro, After Effects.
 - Web UI/UX Design
-  - Figma, Adobe XD
-- others
-  - Notion, Slack, Box, Google Docs, Spreadsheet, Google Slide, Word, Excel, Powerpoint, Keynote, 
+  - Figma, Adobe XD.
+- Presentation
+  - Powerpoint, Keynote.
+
+## Other Skills
+- Project Management
+  - Notion, Slack, Box.
+- Google
+  - Google Docs, Spreadsheet, Google Slide.
+- Microsoft Office
+  - Word, Excel, Powerpoint.
 
 ## Accounts
 
