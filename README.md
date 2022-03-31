@@ -7,7 +7,7 @@ composer, arranger, singer, designer, engineer, executive, bioinformatics scient
 Backend, CI/CD, (Android, Frontend, ML).
 
 ### Langs
-JavaScript, TypeScript, Node.js, Google Apps Script, Python, Rust, MySQL, GraphQL, (Kotlin, C++).
+JavaScript, TypeScript, Node.js, Google Apps Script, Python, Rust, MySQL, GraphQL, Kotlin, (C++).
 
 ### GCP
 Cloud Functions, Firebase, Cloud SQL, BigQuery.
