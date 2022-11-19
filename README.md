@@ -4,15 +4,21 @@ composer, arranger, singer, designer, engineer, executive, bioinformatics scient
 ## Coding Skills
 
 ### Overview
-Backend, Frontend, Android, CI/CD, (ML).
+Backend, Frontend, Android.
 
 ### FE
-- TypeScript + React + Next.js
-- (TypeScript + Vue.js + Nuxt.js).
+- TypeScript
+- React + Next.js
+- Chakra UI
+- (Vue.js + Nuxt.js).
 
 ### BE
 - Node.js + TypeScript + GraphQL + TypeGraphQL + TypeORM + Firebase + Inversify
 - Kotlin + Spring
+
+### Android
+- Kotlin
+- Hilt
 
 ### DB
 MySQL, PostgresQL.
