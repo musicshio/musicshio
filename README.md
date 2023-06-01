@@ -1,3 +1,4 @@
+https://github-readme-stats.vercel.app/api?username=musicshio&count_private=true
 ## Introduction
 composer, arranger, singer, designer, engineer, executive, bioinformatics scientist, philosopher.
 
