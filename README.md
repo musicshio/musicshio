@@ -5,7 +5,7 @@ composer, arranger, singer, designer, engineer, executive, bioinformatics scient
 ## Coding Skills
 
 ### Overview
-Backend, Frontend, Android.
+Backend, Frontend, Mobile.
 
 ### FE
 - TypeScript
@@ -17,9 +17,11 @@ Backend, Frontend, Android.
 - Node.js + TypeScript + GraphQL + TypeGraphQL + TypeORM + Firebase + Inversify
 - Kotlin + Spring
 
-### Android
-- Kotlin
-- Hilt
+### Mobile
+- Android
+  - Kotlin
+  - Hilt
+- Flutter
 
 ### DB
 MySQL, PostgresQL.
