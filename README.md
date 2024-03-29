@@ -7,24 +7,22 @@ composer, arranger, singer, designer, engineer, executive, bioinformatics scient
 ### Overview
 Backend, Frontend, Mobile.
 
-### FE
+### Backend
+- Node.js + TypeScript
+  - Nest.js
+  - Prisma / TypeORM
+  - MySQL / PostgresQL
+- Kotlin + Spring
+
+### Frontend
 - TypeScript
 - React + Next.js
-- Chakra UI
-- (Vue.js + Nuxt.js).
-
-### BE
-- Node.js + TypeScript + GraphQL + TypeGraphQL + TypeORM + Firebase + Inversify
-- Kotlin + Spring
 
 ### Mobile
 - Android
   - Kotlin
   - Hilt
 - Flutter
-
-### DB
-MySQL, PostgresQL.
 
 ### Other
 Python, Rust, Google Apps Script, (C++).
@@ -33,20 +31,20 @@ Python, Rust, Google Apps Script, (C++).
 Cloud Functions, Firebase, Cloud SQL, BigQuery.
 
 ### AWS
-Lambda, EC2, Cognito.
+Lambda, ECS, Cognito.
 
 ### Tools
 Github Actions, CircleCI.
 
 ## Design Skills
 - Musical Composition/Arrangement
-  - Cubase, Audition, musescore.
+  - Cubase, musescore.
 - Graphic Design
-  - Illustrator, Photoshop.
+  - Illustrator, Photoshop, Lightroom.
 - Video editing
   - Premiere Pro, After Effects.
 - Web UI/UX Design
-  - Figma, Adobe XD.
+  - Figma.
 - Presentation
   - Powerpoint, Keynote.
 
@@ -62,12 +60,8 @@ Github Actions, CircleCI.
 
 Twitter: https://twitter.com/music_shio
 
-YouTube: https://www.youtube.com/channel/UCRX8Ai3lQsuOrh9NHpfG7Wg
+YouTube: https://www.youtube.com/@music_shio
 
 note: https://note.com/music_shio
 
 Zenn: https://zenn.dev/music_shio
-
-## Contact
-
-music@shio.tokyo
