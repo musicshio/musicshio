@@ -1,67 +1,69 @@
-https://github-readme-stats.vercel.app/api?username=musicshio&count_private=true
-## Introduction
-composer, arranger, singer, designer, engineer, executive, bioinformatics scientist, philosopher.
+# About Me
 
-## Coding Skills
+Hi, I'm shio.
 
-### Overview
-Backend, Frontend, Mobile.
+- Full-Stack Engineering: Backend, frontend, and mobile app development.
+- Design: Web, graphic, and video content.
+- Music Composition and Arrangement
 
-### Backend
-- Node.js + TypeScript
-  - Nest.js
-  - Prisma / TypeORM
-  - MySQL / PostgresQL
-- Kotlin + Spring
+## Tech Stack
 
-### Frontend
-- TypeScript
-- React + Next.js
+### Programing language
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,graphql,kotlin,dart,rust,py" />
+  </a>
+</p>
 
-### Mobile
-- Android
-  - Kotlin
-  - Hilt
-- Flutter
 
-### Other
-Python, Rust, Google Apps Script, (C++).
 
-### GCP
-Cloud Functions, Firebase, Cloud SQL, BigQuery.
+### Frameworks and Library
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,apollo,nextjs,vercel,react,flutter,jest,yarn" />
+  </a>
+</p>
 
-### AWS
-Lambda, ECS, Cognito.
 
-### Tools
-Github Actions, CircleCI.
+### Platform, DB, and Environments
 
-## Design Skills
-- Musical Composition/Arrangement
-  - Cubase, musescore.
-- Graphic Design
-  - Illustrator, Photoshop, Lightroom.
-- Video editing
-  - Premiere Pro, After Effects.
-- Web UI/UX Design
-  - Figma.
-- Presentation
-  - Powerpoint, Keynote.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,mysql,postgres,docker,kubernetes,linux,ubuntu" />
+  </a>
+</p>
 
-## Other Skills
-- Project Management
-  - Notion, Slack, Box.
-- Google
-  - Google Docs, Spreadsheet, Google Slide.
-- Microsoft Office
-  - Word, Excel, Powerpoint.
 
-## Accounts
+### Dev tools
 
-Twitter: https://twitter.com/music_shio
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,webstorm,idea,clion,pycharm,androidstudio" />
+  </a>
+</p>
 
-YouTube: https://www.youtube.com/@music_shio
+### Design
 
-note: https://note.com/music_shio
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,blender,figma" />
+  </a>
+</p>
 
-Zenn: https://zenn.dev/music_shio
+
+## Articles
+- Hackathon
+  - [Hack Dayで三冠するためにやったこと ——Yahoo! JAPAN Hack Day 2019 参加記](https://note.com/music_shio/n/n24d621d10eb5)
+  - [Hack Dayで三冠したチームがもう一度四冠するまでにやったこと ——Yahoo! JAPAN Hack Day 2021 参加記](https://note.com/music_shio/n/n4d7fee947d2f)
+  - [Hack Dayで三冠→四冠したチームがもう一度優勝はできなかった ——Digital Hack Day 2021 参加記](https://note.com/music_shio/n/nee548f748eb3)
+- Speculative realism
+  - [精神的リストカットと緩やかな自殺](https://note.com/music_shio/n/nbd65ed983b10)   
+  - [炬燵、贖宥、猫とパンダ、ナンセンス文学、(父性)](https://note.com/music_shio/n/ne77c48c6f2d0)
+- Tech
+  - [すたみな太郎に行きたくなった時のために](https://zenn.dev/music_shio/articles/5de4f35b726f0f)
+  - [GKEからCloud SQLに接続](https://zenn.dev/music_shio/articles/f2fb2e60e1ba15)
+  - [射影変換って結局なにすればええんや](https://qiita.com/music_shio/items/8db4a047f3e62ab0ca07)
+  - [Firestore Node.js SDKのCRUDをWrapして安全にする](https://zenn.dev/music_shio/articles/ddc46e0bb7bce0)
+- Music Theory
+  - [DyadにおけるHarmonic Entropy](https://zenn.dev/music_shio/articles/79f86f0c9c8e34)
+
