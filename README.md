@@ -8,6 +8,8 @@ Hi, I'm shio.
 - **Design**: Web, graphic, and video content.
 - **Music Composition and Arrangement**
 
+![github-readme-stats](https://readme-stats-seven-iota.vercel.app/api/?username=musicshio)
+
 ## :technologist: Tech Stack
 
 ### Programing language
