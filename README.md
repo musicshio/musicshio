@@ -40,7 +40,7 @@ Hi, I'm shio.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,webstorm,idea,clion,pycharm,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,webstorm,idea,clion,pycharm,androidstudio,vscode" />
   </a>
 </p>
 
